@@ -1,0 +1,7 @@
+corgi;
+mike;
+2;
+3;
+yes;
+yes;
+no;

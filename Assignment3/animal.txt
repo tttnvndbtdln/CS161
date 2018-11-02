@@ -1,0 +1,27 @@
+
+Breed: corgi;
+Name: mike;
+Age: 2;
+Weight: 3;
+Friendly to other animals? yes;
+Friendly to kids? yes;
+Animal's behavior: no
+*
+
+Breed: gold;
+Name: sam;
+Age: 3;
+Weight: 4;
+Friendly to other animals? yes;
+Friendly to kids? yes;
+Animal's behavior: no
+*
+
+Breed: corgi;
+Name: dan;
+Age: 3;
+Weight: 5;
+Friendly to other animals? yes;
+Friendly to kids? yes;
+Animal's behavior: no
+*
